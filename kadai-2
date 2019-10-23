@@ -1,0 +1,3 @@
+const firstname = 'Saya'
+const familyname = 'Matsumoto'
+console.log(firstname+familyname)
