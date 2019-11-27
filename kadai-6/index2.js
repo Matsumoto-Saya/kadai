@@ -13,4 +13,3 @@ try {
     //正しくは"abc"
 }
 
-console.log(JSON.parse(str4))
